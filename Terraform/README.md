@@ -9,6 +9,7 @@
 
 ### References: 
 * Build Infrastructure - Terraform GCP Example [https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/google-cloud-platform-build]
+* Getting Started with the Google Provider [https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/getting_started]
 
 
 
